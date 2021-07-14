@@ -1,0 +1,4 @@
+server:
+  port: 8480
+  servlet:
+    context-path: /agnasarp-web-service
